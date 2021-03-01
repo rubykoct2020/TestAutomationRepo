@@ -1,0 +1,5 @@
+WomenLink=#block_top_menu>ul>li:nth-child(1)
+DressesLink=#block_top_menu>ul>li:nth-child(2)
+TShirtLink=#block_top_menu>ul>li:nth-child(3)
+getaccountHeaderText=page-heading
+getHeaderText=.header_user_info span
